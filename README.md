@@ -1,18 +1,16 @@
-+++
-categories = ["Lisbon"]
-layout = "post"
-date = "2017-02-05T16:02:56Z"
-featured_image = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CastleSaintGeorge.jpg/2880px-CastleSaintGeorge.jpg"
-title = "Beautiful Lisbon"
-+++
+---
+categories: ["Lisbon"]
+layout: "post"
+date: "2017-02-05T16:02:56Z"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CastleSaintGeorge.jpg/2880px-CastleSaintGeorge.jpg"
+title: "Beautiful Lisbon"
+---
 
 # Beautiful Lisbon
 
 This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub because, well, geeks](https://github.com/oneoverzero/beautiful_lisbon). Feel free to contribute by forking the repository and submitting pull requests, or editing this file directly on GitHub.
 
 ![Lisbon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CastleSaintGeorge.jpg/2880px-CastleSaintGeorge.jpg)
-
-
 
 - Monuments and scenic views
 - Museums and exhibitions
@@ -21,12 +19,6 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 - Shops and commerce in general
 - Places to work
 - Wifi Coffee Shops
-
-
-
-
-
-
 
 ## Monuments and scenic views
 
@@ -38,18 +30,17 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 * [Miradouro da Graça](https://foursquare.com/v/miradouro-da-gra%C3%A7a/4c07f87affb8c9b691826761?ref=nuggets)
 * [Arco da Rua Augusta](https://foursquare.com/v/arco-da-rua-augusta/4b0588a2f964a52006d122e3?ref=nuggets)
 
-
 ## Museums and exhibitions
 
 * [MUDE - Museu do Design e Moda](http://www.mude.pt)
 * [Museu da Electricidade](https://foursquare.com/visitanteriso)
 * [Museu de Arte Antiga](http://www.museudearteantiga.pt)
-
+* [Calouste Gulbenkian Museum] [8]
+* [Berardo Museum] [9]
 
 ## Parks and nature
 * [Jardim da Fundação Calouste Gulbenkian](https://foursquare.com/v/jardim-da-funda%C3%A7%C3%A3o-calouste-gulbenkian/4bd836cc35aad13ad54c90f3?ref=nuggets)
-
-
+* [Monsanto Forest Park][7]
 
 ## Restaurants and bars
 
@@ -105,6 +96,7 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 
 ## Shops and commerce in general
 
+
 * [LX Factory](https://foursquare.com/v/lx-factory/4b3cda52f964a520428825e3?ref=nuggets)
 
 
@@ -126,7 +118,6 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 
 ### Avenidas Novas
 
-- Strudel, bakery
 - Fábrica de sabores, bakery
 - Padaria do bairro nas avenidas novas; 
 
@@ -162,10 +153,37 @@ Avoid the meal times to be working there, as that is when they do most of their 
 Places outside of LX Factory: 
 
 * [Brick café](https://www.zomato.com/pt/grande-lisboa/brick-1-anjos-lisboa)
-* Strudel 
 * Fabrica de Sabores near Avenida Defensores de Chaves;
 * Padaria do Bairro in Avenidas Novas;
 * [Cruzes Credo](https://www.zomato.com/pt/grande-lisboa/cruzes-credo-s%C3%A9-lisboa)
 * Leitaria, Avenida João XXI
 * [Copenhagen Coffee Lab](https://www.zomato.com/grande-lisboa/copenhagen-coffee-lab-pr%C3%ADncipe-real-lisboa)
 * [Botequim da Graça](https://www.zomato.com/grande-lisboa/botequim-gra%C3%A7a-lisboa) 
+
+
+## List of coolest neighbourhoods
+
+* [Alcântara][10]
+* [Alfama][11]
+* [Bairro Alto][12]
+* [Baixa/Chiado][13]
+* [Castelo][14]
+* [Mouraria][15]
+* [Principe Real][16]
+
+[1]: http://www.mude.pt
+[2]: http://www.lifecooler.com/artigo/comer/a-margem/364551/
+[3]: http://www.telecabinelisboa.pt/epages/2060-120119.sf/en_GB/?ObjectPath=/Shops/2060-120119/Categories/Sobre_Telecabine_Lisboa
+[4]: https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle
+[5]: https://pt.wikipedia.org/wiki/Elevador_da_Bica
+[6]: https://www.facebook.com/mercadodecampodeourique
+[7]: https://en.wikipedia.org/wiki/Monsanto_Forest_Park
+[8]:http://www.gulbenkian.pt/Institucional/pt/Homepage
+[9]: http://www.museuberardo.pt/
+[10]: http://www.golisbon.com/sight-seeing/sao-pedro-alcantara.html
+[11]: https://en.wikipedia.org/wiki/Alfama
+[12]: http://www.tripadvisor.com/Attraction_Review-g189158-d195105-Reviews-Bairro_Alto-Lisbon_Lisbon_District_Central_Portugal.html
+[13]: http://www.10best.com/destinations/portugal/lisbon/baixa-chiado/
+[14]: http://www.thelisbonconnection.com/walking-around-lisbon-castle-of-st-georges-picturesque-neighborhood-santa-cruz-mercearia-castello-cafe/
+[15]: http://www.thelisbonconnection.com/lisbon-tourist-guide-josephine-walk-in-area-mouraria-maze-of-narrow-moorish-style-streets-shopping-drinking-ginja-fado/
+[16]: http://www.golisbon.com/sight-seeing/principe-real.html
