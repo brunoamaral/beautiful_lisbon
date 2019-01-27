@@ -22,21 +22,21 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 
 ## Monuments and scenic views
 
-* [The Nations Park Gondola Lift](http://www.telecabinelisboa.pt/epages/2060-120119.sf/en_GB/?ObjectPath=/Shops/2060-120119/Categories/Sobre_Telecabine_Lisboa) (Cable Car)
-* [São Jorge Castle](https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle)
+* [Arco da Rua Augusta](https://foursquare.com/v/arco-da-rua-augusta/4b0588a2f964a52006d122e3?ref=nuggets)
 * [Elevador da Bica](https://pt.wikipedia.org/wiki/Elevador_da_Bica)
+* [Miradouro da Graça](https://foursquare.com/v/miradouro-da-gra%C3%A7a/4c07f87affb8c9b691826761?ref=nuggets)
 * [Miradouro de São Pedro de Alcântara](https://foursquare.com/v/miradouro-de-s%C3%A3o-pedro-de-alc%C3%A2ntara/4b0588a2f964a5200dd122e3)
 * [Mosteiro dos Jerónimos](https://foursquare.com/v/mosteiro-dos-jer%C3%B3nimos/4b7a8c17f964a520a5302fe3?ref=nuggets)
-* [Miradouro da Graça](https://foursquare.com/v/miradouro-da-gra%C3%A7a/4c07f87affb8c9b691826761?ref=nuggets)
-* [Arco da Rua Augusta](https://foursquare.com/v/arco-da-rua-augusta/4b0588a2f964a52006d122e3?ref=nuggets)
+* [São Jorge Castle](https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle)
+* [The Nations Park Gondola Lift](http://www.telecabinelisboa.pt/epages/2060-120119.sf/en_GB/?ObjectPath=/Shops/2060-120119/Categories/Sobre_Telecabine_Lisboa) (Cable Car)
 
 ## Museums and exhibitions
 
+* [Berardo Museum] [9]
+* [Calouste Gulbenkian Museum] [8]
 * [MUDE - Museu do Design e Moda](http://www.mude.pt)
 * [Museu da Electricidade](https://foursquare.com/visitanteriso)
 * [Museu de Arte Antiga](http://www.museudearteantiga.pt)
-* [Calouste Gulbenkian Museum] [8]
-* [Berardo Museum] [9]
 
 ## Parks and nature
 * [Jardim da Fundação Calouste Gulbenkian](https://foursquare.com/v/jardim-da-funda%C3%A7%C3%A3o-calouste-gulbenkian/4bd836cc35aad13ad54c90f3?ref=nuggets)
@@ -49,7 +49,6 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 * [Cruzes Credo](https://www.zomato.com/pt/grande-lisboa/cruzes-credo-s%C3%A9-lisboa)
 
 ### Baixa / Restauradores
-* [Primeiro Andar](https://foursquare.com/v/primeiro-andar/50147499e4b07f20b3668adf?ref=nuggets)
 * [Cervejaria Ruca](https://www.zomato.com/pt/grande-lisboa/ruca-baixa-lisboa)
 * [Hard Rock Cafe](https://www.zomato.com/pt/HardRockCafe-Lisboa)
 
@@ -59,8 +58,8 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 ### Cais do Sodré / Rua de São Paulo
 * [Hennessy's Irish Pub](https://www.zomato.com/grande-lisboa/hennessys-irish-pub-cais-do-sodr%C3%A9-lisboa)
 * [O'Gillins Irish Pub](https://www.zomato.com/grande-lisboa/ogilins-irish-pub-cais-do-sodr%C3%A9-lisboa)
-* [Tabacaria](https://www.tripadvisor.com.br/Restaurant_Review-g189158-d10292976-Reviews-A_Tabacaria-Lisbon_Lisbon_District_Central_Portugal.html)
 * [Pistola y Corazón](https://www.tripadvisor.com/Restaurant_Review-g189158-d7312425-Reviews-Pistola_y_Corazon-Lisbon_Lisbon_District_Central_Portugal.html)
+* [Tabacaria](https://www.tripadvisor.com.br/Restaurant_Review-g189158-d10292976-Reviews-A_Tabacaria-Lisbon_Lisbon_District_Central_Portugal.html)
 * [Wanli](https://www.tripadvisor.com/Restaurant_Review-g189158-d3898048-Reviews-Wanli-Lisbon_Lisbon_District_Central_Portugal.html)
 
 ### Campo de Ourique
@@ -76,6 +75,7 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 * Cafetaria Do Museu De Arte Antiga (refeitório Artsy, Janelas Verdes)
 * Caldo Verde (Portuguese, Esperança)
 * Casa De Goa (goês, Necessidades)
+* [Cantinho da Paz](https://www.tripadvisor.pt/Restaurant_Review-g189158-d804034-Reviews-Cantinho_Da_Paz-Lisbon_Lisbon_District_Central_Portugal.html), São Bento
 * Come Prima (italian/indian, Rua Do Olival)
 * David, O (cervejaria, Alcantara)
 * Dervixe (turco, 24 De Julho)
@@ -92,7 +92,6 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 * Toscana (italian, Janelas Verdes)
 * Toscana Grill
 * Zuari (goan, João Da Mata)
-
 
 ## Shops and commerce in general
 
@@ -148,7 +147,7 @@ At LX Factory there are several coffee shops with wi-fi and they are not so busy
 * [Wish Slow Coffee](https://www.zomato.com/pt/grande-lisboa/wish-alc%C3%A2ntara-lisboa)
 * [Ler devagar](https://www.zomato.com/pt/grande-lisboa/ler-devagar-alc%C3%A2ntara-lisboa)
 
-Avoid the meal times to be working there, as that is when they do most of their profit.
+Please avoid the meal times to work there as that is when they make most of their profit.
 
 Places outside of LX Factory: 
 
